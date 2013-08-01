@@ -64,6 +64,8 @@ If you pass 2 or 3 arguments then a message will be created with for key the fir
 req.flash('username', 'test', FlashMessages.REQUEST_SCOPE);
 </pre>
 
+The method <i>flashBody</i> is also added to flash all body data.
+
 ## Support
 
 <a href="http://www.it-tweaks.com/" target="_blank">it-tweaks</a>
